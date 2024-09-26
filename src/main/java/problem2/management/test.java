@@ -12,7 +12,7 @@ public class test {
                      continue;
 
                    }
-
+               System.out.println("asd");
                 System.out.println( "i = " + i + "j == "  + j);
 
                 }
